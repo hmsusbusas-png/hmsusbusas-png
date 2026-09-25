@@ -17,7 +17,7 @@ Python / JS developer from Moscow. I build websites, Telegram bots, parsers and 
 
 - [zaxdev-portfolio](https://hmsusbusas-png.github.io/zaxdev-portfolio/) — this site. Dark glassmorphism, pure HTML/CSS/JS
 - [utro-coffee](https://hmsusbusas-png.github.io/utro-coffee/) — landing page for a coffee shop. Light minimalism
-- wb-price-tracker — Wildberries price monitor (Python) · in development
+- [wb-price-tracker](https://github.com/hmsusbusas-png/wb-price-tracker) — Wildberries price monitor: search, Excel export, price history, charts (Python)
 - tg-shop-bot — shop inside Telegram (aiogram) · in development
 
 More ships as they're done.
