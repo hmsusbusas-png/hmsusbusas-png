@@ -23,7 +23,7 @@ Ships go to the pinned repos below as they're done.
 
 ## Contact
 
-Telegram: **@tbd** — open for orders
+Telegram: **@lev_backend** — open for orders
 
 ---
 
@@ -37,6 +37,6 @@ Telegram: **@tbd** — open for orders
 - **Парсеры** — цены маркетплейсов, мониторинг, выгрузка в Excel
 - **Автоматизация** — скрипты под рутину
 
-Связь: Telegram **@tbd** — открыт под заказы.
+Связь: Telegram **@lev_backend** — открыт под заказы.
 
 </details>
