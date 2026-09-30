@@ -8,7 +8,7 @@
 
 ## Что внутри
 
-Сайты, все живые, на GitHub Pages:
+Сайты, все живые, но демо, некоторые картинки заменены/удалены. Сайты на GitHub Pages:
 
 - [zaxdev-portfolio](https://hmsusbusas-png.github.io/zaxdev-portfolio/): сайт-хаб всего портфолио, тёмная тема, glassmorphism
 - [northlight](https://hmsusbusas-png.github.io/northlight/): лендинг SaaS с bento-сеткой и рабочим демо прямо на странице
