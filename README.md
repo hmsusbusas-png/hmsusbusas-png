@@ -4,27 +4,27 @@
 
 ## Сейчас
 
-[Pulsewatch](https://github.com/hmsusbusas-png/pulsewatch) проверяет сайты и API из нескольких регионов. В нём есть журнал инцидентов, уведомления в Telegram и публичные статус-страницы. FastAPI, PostgreSQL, React.
+[Pulsewatch](https://github.com/zaxdevv/pulsewatch) проверяет сайты и API из нескольких регионов. В нём есть журнал инцидентов, уведомления в Telegram и публичные статус-страницы. FastAPI, PostgreSQL, React.
 
 ## Сайты
 
 Пять концептов для вымышленных брендов:
 
-- [Фотограф архитектуры](https://hmsusbusas-png.github.io/marta-berg/)
-- [Кофейня](https://hmsusbusas-png.github.io/utro-coffee/)
-- [Фитнес-клуб с расписанием](https://hmsusbusas-png.github.io/forma-fitness/)
-- [Агентство](https://hmsusbusas-png.github.io/shum-agency/)
-- [Лендинг SaaS](https://hmsusbusas-png.github.io/northlight/)
+- [Фотограф архитектуры](https://zaxdevv.github.io/marta-berg/)
+- [Кофейня](https://zaxdevv.github.io/utro-coffee/)
+- [Фитнес-клуб с расписанием](https://zaxdevv.github.io/forma-fitness/)
+- [Агентство](https://zaxdevv.github.io/shum-agency/)
+- [Лендинг SaaS](https://zaxdevv.github.io/northlight/)
 
-В [портфолио](https://hmsusbusas-png.github.io/zaxdev-portfolio/) есть превью и ссылки на код каждого сайта.
+В [портфолио](https://zaxdevv.github.io/zaxdev-portfolio/) есть превью и ссылки на код каждого сайта.
 
 ## Боты и инструменты
 
-[tg-shop-bot](https://github.com/hmsusbusas-png/tg-shop-bot): магазин в Telegram с корзиной, заказами и демо-оплатой. Администратор получает уведомления и меняет статус заказа кнопкой.
+[tg-shop-bot](https://github.com/zaxdevv/tg-shop-bot): магазин в Telegram с корзиной, заказами и демо-оплатой. Администратор получает уведомления и меняет статус заказа кнопкой.
 
-[price-watch](https://github.com/hmsusbusas-png/price-watch) следит за ценами на Wildberries и страницах магазинов. Сохраняет историю, отправляет уведомления в Telegram, выгружает данные в Excel.
+[price-watch](https://github.com/zaxdevv/price-watch) следит за ценами на Wildberries и страницах магазинов. Сохраняет историю, отправляет уведомления в Telegram, выгружает данные в Excel.
 
-[file-tidy](https://github.com/hmsusbusas-png/file-tidy) раскладывает файлы по типам и датам. Перемещения можно отменить по журналу.
+[file-tidy](https://github.com/zaxdevv/file-tidy) раскладывает файлы по типам и датам. Перемещения можно отменить по журналу.
 
 ## Связаться
 
